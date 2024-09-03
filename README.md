@@ -56,7 +56,7 @@ Para facilitar a execução e garantir a consistência do ambiente, as resoluç�
 
 A estrutura do projeto está organizada da seguinte forma:
 
-teste_pratico_target_sistemas/ 
+>teste_pratico_target_sistemas/ 
 │ 
 ├── teste_pratico_target_sistemas # Diretório com as resoluções das questões
 │ └── questao1.py
