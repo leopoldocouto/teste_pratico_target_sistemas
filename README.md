@@ -56,25 +56,25 @@ Para facilitar a execução e garantir a consistência do ambiente, as resoluç�
 
 A estrutura do projeto está organizada da seguinte forma:
 
->teste_pratico_target_sistemas/ 
-│ 
-├── teste_pratico_target_sistemas # Diretório com as resoluções das questões
-│ └── questao1.py
-│ └── questao2.py
-│ └── questao3.py
-│ └── questao4.py
-│ └── questao5.py
-├── tests # Diretório com os testes das resoluções das questões
-│ └── test_questao1.py
-│ └── test_questao2.py
-│ └── test_questao3.py
-│ └── test_questao4.py
-│ └── test_questao5.py
-├── .gitignore  # Arquivos e pastas ignorados pelo Git
-├── .pythonversion  # Arquivos com a versão usado do Python
-├── Dockerfile # Dockerfile com as instruções para construir a imagem 
-├── README.md # Documentação do projeto 
-├── poetry.lock # Arquivo de configuração do Poetry e dependências 
-└── pyproject.toml # Arquivo de configuração do Poetry e dependências 
+teste_pratico_target_sistemas/ <br>
+│ <br>
+├── teste_pratico_target_sistemas # Diretório com as resoluções das questões<br>
+│ └── questao1.py<br>
+│ └── questao2.py<br>
+│ └── questao3.py<br>
+│ └── questao4.py<br>
+│ └── questao5.py<br>
+├── tests # Diretório com os testes das resoluções das questões<br>
+│ └── test_questao1.py<br>
+│ └── test_questao2.py<br>
+│ └── test_questao3.py<br>
+│ └── test_questao4.py<br>
+│ └── test_questao5.py<br>
+├── .gitignore  # Arquivos e pastas ignorados pelo Git<br>
+├── .pythonversion  # Arquivos com a versão usado do Python<br>
+├── Dockerfile # Dockerfile com as instruções para construir a imagem <br>
+├── README.md # Documentação do projeto <br>
+├── poetry.lock # Arquivo de configuração do Poetry e dependências <br>
+└── pyproject.toml # Arquivo de configuração do Poetry e dependências <br> 
 
 Este README.md fornece instruções claras sobre como o avaliador deve configurar o ambiente, instalar as dependências e executar as soluções das questões utilizando Docker e Poetry.
