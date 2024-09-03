@@ -8,4 +8,4 @@ RUN pip install poetry
 RUN poetry config installer.max-workers 10
 RUN poetry install --no-interaction --no-ansi
 
-CMD poetry test
+CMD task test
