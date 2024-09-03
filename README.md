@@ -1,6 +1,6 @@
 # Resolução de Questões para Teste Prático de Estágio
 
-Este repositório contém as resoluções de questões propostas para o teste prático de seleção para vagas de estágio. As soluções foram implementadas em **Python** como linguagem de programação, utilizando o **Poetry** como gerenciador de dependências e **Docker** como ambiente de execução
+Este repositório contém as resoluções de questões propostas para o teste prático de seleção para vagas de estágio. As soluções foram implementadas em **Python** como linguagem de programação com **type annotation**, utilizando o **Poetry** como gerenciador de dependências e **Docker** como ambiente de execução
 
 ## Requisitos
 
