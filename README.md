@@ -62,12 +62,16 @@ teste_pratico_target_sistemas/ <br>
 │ └── questao1.py<br>
 │ └── questao2.py<br>
 │ └── questao3.py<br>
+│ └── questao3_json.py<br>
+│ └── questao3_xml.py<br>
 │ └── questao4.py<br>
 │ └── questao5.py<br>
 ├── tests # Diretório com os testes das resoluções das questões<br>
 │ └── test_questao1.py<br>
 │ └── test_questao2.py<br>
 │ └── test_questao3.py<br>
+│ └── test_questao3_json.py<br>
+│ └── test_questao3_xml.py<br>
 │ └── test_questao4.py<br>
 │ └── test_questao5.py<br>
 ├── .gitignore  # Arquivos e pastas ignorados pelo Git<br>
